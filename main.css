@@ -1,0 +1,182 @@
+/* 1st section */
+.button{
+    border: none;
+    padding: 10px 50px;
+    border-radius: 50px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    background-color:rgb(33, 139, 160);
+    color: white;
+    font-weight: bold;
+}
+.love{
+      font-size: 30px;
+      color: black;
+      font-weight: 800;
+}
+/* .login1{
+    background-color:rgb(120, 59, 12);
+    border-color: rgb(88, 46, 13);
+    color: white;
+} */
+/* 2nd section */
+.offer{
+    background-color:brown;
+}
+.offer-main{
+    text-align: center;
+    color:white;
+}
+/* 3rd section */
+.banner{
+background-image: url(bann.jpg);
+min-height: 500px;
+width: 100%;
+background-repeat:no-repeat;
+background-size: cover;
+padding:50px;
+/* background-position: center; */
+}
+.banner{
+    text-align:left;
+    color:black;
+}
+@media(max-width:468){
+    /* padding:50px; */
+}
+/* 4th section */
+.gift-inbox,.icon-inbox,.off-inbox,.delivery-inbox{
+    text-align: center;
+    margin-top: 100px;
+}
+.underline{
+    background-color: brown;
+}
+/* 5th section */
+.registry{
+    background-color:rgb(15, 41, 93);
+    min-height:auto;
+}
+.registry-main{
+    margin-top:100px;
+    text-align: center;
+    color: aliceblue;
+  }
+.registry-inbox{
+    margin-top:100px;
+    text-align: center;
+}
+.line{
+    width:20%;
+    height:2px;
+    background-color:brown;
+    display:inline-block;
+}
+/* 6th section */
+.rate-section{
+    margin-top: 100px;
+    text-align: center;
+    padding:200px;
+
+}
+.rate-inbox{
+    padding: 100px;
+    text-align: center;
+}
+.hello{
+    text-align: center;
+}
+/* 7th section */
+.box{
+    text-align: center;
+}
+.rounded-circle{
+    border-radius: 100px;
+    height: 200px;
+}
+/* 8th section */
+.last{
+    background-color: rgb(238, 197, 190); 
+    /* background-image: url(wallpaper.avif); */
+    /* background-repeat:no-repeat;
+   background-size: cover; */
+   padding: 50px; 
+}
+.last-main{
+text-align: center;
+padding: 100px;
+  
+   /* background-color: rgb(230, 139, 28); */
+    min-height:auto;
+}
+.free{
+    color: red;
+}
+
+.ara1{
+  text-align: start !important;
+   
+}
+.h6{
+    text-align: start !important;
+}
+/* 9th section */
+
+.make-inbox{
+    padding: 100px;
+    text-align: center;
+}
+.make{
+    /* margin-top: 10px; */
+ 
+    text-align: center;
+    /* padding:10px; */
+}
+.customer-logo{
+    border-radius: 10px;
+}
+
+/* 10th section */
+.stay-sec{
+    margin-top: 100px;
+    text-align: center;
+    /* padding:10px; */
+    background-color: rgb(15, 41, 93);
+    color: antiquewhite;
+}
+.stay-inbox{
+    padding: 100px;
+    text-align: center;
+}
+.stay-inbox h2{
+    font-family:'Courier New', Courier, monospace;
+    font-style:italic;
+}
+/* 11th section */
+.Error{
+    margin-top: 10px;
+    padding: 10px;
+    text-align:justify;  
+}
+@media(max-width:468px){
+    .banner-main{
+        width: 100%;
+        height: 100%;
+        
+    }
+    .last-main{
+        padding: 0 !important;
+    }
+}
+
+.overflow{
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+
